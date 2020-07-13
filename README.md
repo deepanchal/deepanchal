@@ -1,4 +1,4 @@
-### Hello there Nerds 👋
+### Hello there Nerds, I am [Deep](https://deepanchal.github.io) 👋
 
 I am glad you stumbled upon my profile. You get a 🍪
 
@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 ⚡ Fun fact: I can speak 3 languages. Besides that, I speak Javascript, Python, and Java!!
+[![Deep's github stats](https://github-readme-stats.vercel.app/api?username=deepanchal)](https://github.com/anuraghazra/github-readme-stats)
 -->
