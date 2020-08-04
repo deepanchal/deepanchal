@@ -6,6 +6,16 @@ I am glad you stumbled upon my profile. You get a 🍪
 - 🔭 I’m searching for internships to gain experience and strengthen my skills.
 - ⚡ Fun fact: I can speak 3 languages. Besides that, I speak Javascript, Python, and Java!!
 
+&nbsp;
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=deepanchal&count_private=true&show_icons=true&hide=issues" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanchal&layout=compact" />
+</a>
+
+
 <!--
 **deepanchal/deepanchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +28,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-⚡ Fun fact: I can speak 3 languages. Besides that, I speak Javascript, Python, and Java!!
-[![Deep's github stats](https://github-readme-stats.vercel.app/api?username=deepanchal)](https://github.com/anuraghazra/github-readme-stats)
 -->
