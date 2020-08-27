@@ -9,10 +9,10 @@ I am glad you stumbled upon my profile. You get a 🍪
 &nbsp;
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanchal&count_private=true&show_icons=true&hide=issues" />
+  <img align="center" src="https://github-readme-stats.deepanchal.vercel.app/api?username=deepanchal&count_private=true&show_icons=true&hide=issues" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanchal&layout=compact" />
+  <img align="center" src="https://github-readme-stats.deepanchal.vercel.app/api/top-langs/?username=deepanchal&layout=compact" />
 </a>
 
 
