@@ -1,8 +1,8 @@
-### Hello there Nerds, I am [Deep](https://deepanchal.github.io) 👋
+### Hello there, I am [Deep](https://deepanchal.github.io) 👋
 
-I am glad you stumbled upon my profile. You get a 🍪
+I am glad you stumbled upon my profile.
 
-- 🌱 I’m currently working on some personal projects
+- 🌱 I’m currently learning machine learning in python.
 - 🔭 I’m searching for internships to gain experience and strengthen my skills.
 - ⚡ Fun fact: I can speak 3 languages. Besides that, I speak Javascript, Python, and Java!!
 
