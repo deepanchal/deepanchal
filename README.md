@@ -6,11 +6,9 @@ I am glad you stumbled upon my profile.
 - 🔭 I’m currently working on some personal projects
 - ⚡ Fun fact: I can speak 3 languages. Besides that, I speak Javascript, Python, and C++!!
 
-&nbsp;
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.deepanchal.vercel.app/api?username=deepanchal&count_private=true&show_icons=true&hide=issues" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.deepanchal.vercel.app/api/top-langs/?username=deepanchal&layout=compact" />
 </a> -->
