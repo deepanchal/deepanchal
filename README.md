@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Go, Graphql, Django, & Kubernetes**
+- 🌱 I’m currently learning **Go, Graphql, React Native & Kubernetes**
 
 - 💬 Ask me about **React ⚛️ and Vue 💚**
 
