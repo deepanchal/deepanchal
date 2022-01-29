@@ -26,8 +26,5 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats-deepanchal.vercel.app/api?username=deepanchal&show_icons=true&theme=dark&locale=en&count_private=true&hide_rank=true" alt="deepanchal" />
-  &ensp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanchal&theme=dark" alt="deepanchal" />
-</p>
+&nbsp; [![Deep's GitHub stats](https://github-readme-stats-deepanchal.vercel.app/api?username=deepanchal&show_icons=true&theme=dark&locale=en&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+&ensp; [![Deep's Github streaks](https://github-readme-streak-stats.herokuapp.com/?user=deepanchal&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
