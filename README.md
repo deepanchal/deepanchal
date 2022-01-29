@@ -27,7 +27,7 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanchal&show_icons=true&theme=dark&locale=en&count_private=true&hide_rank=true" alt="deepanchal" />
+  <img align="center" src="https://github-readme-stats-deepanchal.vercel.app/api?username=deepanchal&show_icons=true&theme=dark&locale=en&count_private=true&hide_rank=true" alt="deepanchal" />
   &ensp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanchal&theme=dark" alt="deepanchal" />
 </p>
