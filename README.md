@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Go, Graphql, React Native & Kubernetes**
+- 🌱 I’m currently learning **Go, Rust, React Native & Kubernetes**
 
-- 💬 Ask me about **React ⚛️ and Vue 💚**
+- 💬 Ask me about **Vue 💚 and React ⚛️**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
