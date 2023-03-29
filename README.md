@@ -27,4 +27,3 @@
 </p>
 
 &nbsp; [![Deep's GitHub stats](https://github-readme-stats-deepanchal.vercel.app/api?username=deepanchal&show_icons=true&theme=dark&locale=en&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-&ensp; [![Deep's Github streaks](https://d2p-readme-streaks.herokuapp.com/?user=deepanchal&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
