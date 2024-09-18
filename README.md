@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deep</h1>
-<h3 align="center">Passionate Developing Developer</h3>
 
 <ul>
   <li>🔭 I'm currently working on <strong>personal projects</strong></li>
-  <li>🌱 I'm currently learning <strong>Rust, AWS, & Kubernetes</strong></li>
-  <li>💬 Ask me about <strong>Vue, Typescript & Rust</strong></li>
+  <li>🌱 I'm currently learning <strong>Nix, Rust, & AWS</strong></li>
+  <li>💬 Ask me about <strong>Vue, Typescript, Nix & Rust</strong></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
@@ -51,7 +50,7 @@
   </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
       alt="rust"
       width="40"
       height="40"
@@ -278,8 +277,8 @@
     <img
       align="left"
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      height="50"
-      width="210"
+      height="35"
+      width="147"
       alt="deepanchal"
     />
   </a>
@@ -288,8 +287,8 @@
     <img
       align="left"
       src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
-      height="50"
-      width="210"
+      height="35"
+      width="147"
       alt="deepanchal"
     />
   </a>
